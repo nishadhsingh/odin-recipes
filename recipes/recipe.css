@@ -11,3 +11,16 @@ li{
     font-size: medium;
     color: goldenrod;
 }
+
+.card,.side
+{   width: 480px;
+    display: inline-block;
+    vertical-align: text-top;
+    padding-inline: 15px;
+    height: auto;
+}
+
+.side
+{
+    background-color: beige;
+}
